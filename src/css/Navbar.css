@@ -13,6 +13,9 @@
     position: relative;
     padding: 4vh 0px;
     background-color: black;
+
+    margin: 0px !important;
+    height: 2vh;
 }
 
 .wrap{
