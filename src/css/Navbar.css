@@ -1,4 +1,4 @@
-.nav a {
+.nav a{
     text-decoration: none;
     font-size: 1.1rem;
     color: black;
@@ -10,10 +10,11 @@
 }
 
 .nav{
-    position: relative;
+    position: absolute;
     padding: 4vh 0px;
     background-color: black;
-
+    width: 80vw;
+    right: 0;
     margin: 0px !important;
     height: 2vh;
 }
@@ -22,7 +23,24 @@
  float: right;
 }
 
-.wrap a{
+.wrap a {
     /*display: none;*/
     border-radius: 1.3rem;
+}
+
+.logo {
+    text-decoration: none;
+    font-size: 1.1rem;
+    color: black;
+    border: 1px solid black;
+    margin: 3vh;
+    color: black;
+    background-color: aqua;
+    padding: 0.5rem;
+    height: 2vh;
+}
+
+.text{
+    color: whitesmoke;
+    padding: 2px;
 }
