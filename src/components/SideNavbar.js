@@ -8,10 +8,7 @@ const AlbumCardHolder= styled.div`
         flex
         bg-black
         m-0
-        top-0
         p-0
-        border-8
-        border-red-500
         h-screen
     `}
   
